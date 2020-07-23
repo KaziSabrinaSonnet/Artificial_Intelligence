@@ -1,0 +1,74 @@
+Wow	Positive
+loved	Positive
+this	Positive
+place	Positive
+
+
+Crust	Neutral  
+is	Neutral  
+not	Negative 
+good	Negative 
+
+Not	Negative
+tasty	Negative 
+the	Negative 
+texture	Negative 
+was	Negative 
+just	Negative 
+nasty	Negative
+
+Stopped	Neutral
+by	Neutral
+during 	Neutral
+the	Neutral
+late	Neutral
+May	Neutral
+bank	Neutral
+holiday	Neutral
+off	Neutral
+Rick	Neutral
+Steve	Neutral
+recommendation	Neutral
+and	Neutral
+loved	Positive
+it	Positive
+
+The	Neutral
+selection	Neutral
+on	Neutral
+the	Neutral
+menu	Neutral
+was	Neutral
+great	Positive
+and	Positive
+so	Positive
+were	Positive
+the	Positive
+prices	Positive
+
+The	Neutral
+potatoes	Neutral 
+were	Neutral 
+like	Neutral 
+rubber	Negative 
+and	Negative 
+you	Negative 
+could	Negative  
+tell	Negative 
+they	Negative  
+had	Negative 
+been	Negative  
+made	Negative  
+up	Negative 
+ahead	Negative  
+of	Negative  
+time	Negative  
+being	Negative  
+kept	Negative 
+under	Negative  
+a	Negative  
+warmer	Negative 
+
+
+
+
